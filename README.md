@@ -28,7 +28,6 @@
 #### :boat: When I'm not coding I'm
 - Running long distances in the Rocky Mountains
 - Looking for new white water around the Western US
-<!-- - Reading books about food -->
 - Embroidering thrifted clothes
 
 #### :thumbsup: Let's Connect! 
@@ -46,6 +45,7 @@
 
 
 
+<!-- - Reading books about food -->
 
 <!--
 **whiteheadol/whiteheadol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
