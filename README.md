@@ -28,7 +28,7 @@
 #### :boat: When I'm not coding I'm
 - Running long distances in the Rocky Mountains
 - Looking for new white water around the Western US
-- Reading books about food
+<!-- - Reading books about food -->
 - Embroidering thrifted clothes
 
 #### :thumbsup: Let's Connect! 
