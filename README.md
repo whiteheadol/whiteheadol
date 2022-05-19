@@ -25,7 +25,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-#### :boat: When I'm not coding I'm
+#### :boat: When I'm Not Coding I'm
 - Running long distances in the Rocky Mountains
 - Looking for new white water around the Western US
 - Embroidering thrifted clothes
@@ -38,12 +38,8 @@
 </div>
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?whiteheadol)](https://github.com/anuraghazra/github-readme-stats)
- -->
-<!-- #### :fire: My Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whiteheadol&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whiteheadol&langs_count=5&theme=tokyonight)]() -->
+#### 📈 My Stats
+[![Olivia's's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteheadol)](https://github.com/whiteheadol/github-readme-stats)
 
 
 
