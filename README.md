@@ -39,7 +39,7 @@
 
 
 #### 📈 My Stats
-[![Olivia's's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteheadol)](https://github.com/whiteheadol/github-readme-stats)
+[![Olivia's's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteheadol&count_private=true)](https://github.com/whiteheadol/github-readme-stats)
 
 
 
