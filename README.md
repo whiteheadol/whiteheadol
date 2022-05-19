@@ -38,8 +38,8 @@
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiwhiteheadol)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?whiteheadol)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <!-- #### :fire: My Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=whiteheadol&count_private=true&theme=tokyonight&showicons=true)]()
 
