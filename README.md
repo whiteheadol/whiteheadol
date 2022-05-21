@@ -30,12 +30,12 @@
 - Looking for new white water around the Western US
 - Embroidering thrifted clothes
 
-#### :thumbsup: Let's Connect! 
+<!-- #### :thumbsup: Let's Connect! 
 <div id="badges">
   <a href="www.linkedin.com/in/-olivia-whitehead">
     <img src=https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge>
   </a>
-</div>
+</div> -->
 
 
 #### 📈 My Stats
