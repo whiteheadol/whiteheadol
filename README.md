@@ -27,7 +27,7 @@
 
 #### :boat: When I'm Not Coding I'm
 - Running long distances in the Rocky Mountains
-- Looking for new white water around the Western US
+- Looking for new whitewater around the Western US
 - Embroidering thrifted clothes
 
 <!-- #### :thumbsup: Let's Connect! 
