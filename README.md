@@ -22,6 +22,8 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+#### :clipboard: [My Resume](https://docs.google.com/document/d/13B97MxGSszGiwWstxnAvev5Kq8erW1ZZa2isP1vKFhY/edit?usp=sharing) 
+
 #### :books: Currently Learning 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
